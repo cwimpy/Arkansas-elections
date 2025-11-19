@@ -1,0 +1,145 @@
+year,state,indicator,score
+2008,Arkansas,Online Registration,0
+2010,Arkansas,Online Registration,0
+2012,Arkansas,Online Registration,0
+2014,Arkansas,Online Registration,0
+2016,Arkansas,Online Registration,0
+2018,Arkansas,Online Registration,0
+2020,Arkansas,Online Registration,0.95
+2022,Arkansas,Online Registration,0.95
+2008,Arkansas,Registration Accuracy,0.48281376087106764
+2010,Arkansas,Registration Accuracy,0.46882983315736054
+2012,Arkansas,Registration Accuracy,0.4508954931050539
+2014,Arkansas,Registration Accuracy,0.5555415000766516
+2016,Arkansas,Registration Accuracy,0.5079388821963221
+2018,Arkansas,Registration Accuracy,0.5075785280205309
+2020,Arkansas,Registration Accuracy,0.4993526984937489
+2022,Arkansas,Registration Accuracy,0.49237008118070663
+2008,Arkansas,Provisional Ballot Rate,0.576622269814834
+2010,Arkansas,Provisional Ballot Rate,0.6280390871688724
+2012,Arkansas,Provisional Ballot Rate,0.5007749312091618
+2014,Arkansas,Provisional Ballot Rate,0.6282125573139637
+2016,Arkansas,Provisional Ballot Rate,0.5996285593137145
+2018,Arkansas,Provisional Ballot Rate,0.6950118925422429
+2020,Arkansas,Provisional Ballot Rate,0.6621854048222303
+2022,Arkansas,Provisional Ballot Rate,0.5032670726068318
+2008,Arkansas,Residual Vote Rate,0.7383488897699862
+2010,Arkansas,Residual Vote Rate,0.6564173698890954
+2012,Arkansas,Residual Vote Rate,0.7542994806077331
+2014,Arkansas,Residual Vote Rate,0.7675731599796564
+2016,Arkansas,Residual Vote Rate,0.679735353263095
+2018,Arkansas,Residual Vote Rate,0.768392041977495
+2020,Arkansas,Residual Vote Rate,0.6430821197573096
+2022,Arkansas,Residual Vote Rate,0.6753234273288399
+2008,Arkansas,Wait Times,0.692687792237848
+2010,Arkansas,Wait Times,0.6015540286898613
+2012,Arkansas,Wait Times,0.6188294642139226
+2014,Arkansas,Wait Times,0.5677140627522022
+2016,Arkansas,Wait Times,0.5391891150269658
+2018,Arkansas,Wait Times,0.5318198658525943
+2020,Arkansas,Wait Times,0.584160755481571
+2022,Arkansas,Wait Times,0.6918595236726105
+2008,Arkansas,Poll Worker Training,0.45406596646644176
+2010,Arkansas,Poll Worker Training,0.5483800021931529
+2012,Arkansas,Poll Worker Training,0.4384671906474978
+2014,Arkansas,Poll Worker Training,0.4045415856409818
+2016,Arkansas,Poll Worker Training,0.5942438243422657
+2018,Arkansas,Poll Worker Training,0.4225190425757319
+2020,Arkansas,Poll Worker Training,0.5330729322973639
+2022,Arkansas,Poll Worker Training,0.43246198748238385
+2008,Arkansas,Polling Resources,0.5950961909256876
+2010,Arkansas,Polling Resources,0.6499670455232263
+2012,Arkansas,Polling Resources,0.6737617151346057
+2014,Arkansas,Polling Resources,0.5851389657240361
+2016,Arkansas,Polling Resources,0.6281469071749598
+2018,Arkansas,Polling Resources,0.6471016646828502
+2020,Arkansas,Polling Resources,0.6438464978244155
+2022,Arkansas,Polling Resources,0.5750864744652062
+2008,Arkansas,Absentee Rejection,0.7498270396143198
+2010,Arkansas,Absentee Rejection,0.6457693842239678
+2012,Arkansas,Absentee Rejection,0.6094477038830518
+2014,Arkansas,Absentee Rejection,0.6902018366847187
+2016,Arkansas,Absentee Rejection,0.684991852985695
+2018,Arkansas,Absentee Rejection,0.744523583073169
+2020,Arkansas,Absentee Rejection,0.6828967032954096
+2022,Arkansas,Absentee Rejection,0.7567548409570009
+2008,Arkansas,Disability Access,0.5664794484619051
+2010,Arkansas,Disability Access,0.549789153598249
+2012,Arkansas,Disability Access,0.5894446075428277
+2014,Arkansas,Disability Access,0.5926384577527642
+2016,Arkansas,Disability Access,0.41642328002490103
+2018,Arkansas,Disability Access,0.5002588732168078
+2020,Arkansas,Disability Access,0.5386998247820884
+2022,Arkansas,Disability Access,0.4426257205195725
+2008,Arkansas,Military Ballot,0.81410764711909
+2010,Arkansas,Military Ballot,0.7438689595088362
+2012,Arkansas,Military Ballot,0.7827344622462987
+2014,Arkansas,Military Ballot,0.7776481917593628
+2016,Arkansas,Military Ballot,0.7935008816421032
+2018,Arkansas,Military Ballot,0.7680491312406957
+2020,Arkansas,Military Ballot,0.7266594285145401
+2022,Arkansas,Military Ballot,0.7355881515424698
+2008,Arkansas,Post-Election Audits,0
+2010,Arkansas,Post-Election Audits,0
+2012,Arkansas,Post-Election Audits,0
+2014,Arkansas,Post-Election Audits,0
+2016,Arkansas,Post-Election Audits,0
+2018,Arkansas,Post-Election Audits,0.85
+2020,Arkansas,Post-Election Audits,0.85
+2022,Arkansas,Post-Election Audits,0.85
+2008,Arkansas,Web Information,0.7115646403282881
+2010,Arkansas,Web Information,0.7056593069806695
+2012,Arkansas,Web Information,0.6308781842701137
+2014,Arkansas,Web Information,0.6887595936655998
+2016,Arkansas,Web Information,0.758298429613933
+2018,Arkansas,Web Information,0.7066568129230291
+2020,Arkansas,Web Information,0.7016139997169376
+2022,Arkansas,Web Information,0.703943648468703
+2008,Arkansas,Data Completeness,0.5783788935281337
+2010,Arkansas,Data Completeness,0.6799252588301896
+2012,Arkansas,Data Completeness,0.5902348427567631
+2014,Arkansas,Data Completeness,0.5398234015330672
+2016,Arkansas,Data Completeness,0.5109123455826193
+2018,Arkansas,Data Completeness,0.5293905726633966
+2020,Arkansas,Data Completeness,0.6864375005941837
+2022,Arkansas,Data Completeness,0.5117584375664592
+2008,Arkansas,ERIC Membership,0
+2010,Arkansas,ERIC Membership,0
+2012,Arkansas,ERIC Membership,0
+2014,Arkansas,ERIC Membership,0
+2016,Arkansas,ERIC Membership,0
+2018,Arkansas,ERIC Membership,0
+2020,Arkansas,ERIC Membership,0
+2022,Arkansas,ERIC Membership,0
+2008,Arkansas,Risk-Limiting Audits,0
+2010,Arkansas,Risk-Limiting Audits,0
+2012,Arkansas,Risk-Limiting Audits,0
+2014,Arkansas,Risk-Limiting Audits,0
+2016,Arkansas,Risk-Limiting Audits,0
+2018,Arkansas,Risk-Limiting Audits,0
+2020,Arkansas,Risk-Limiting Audits,0
+2022,Arkansas,Risk-Limiting Audits,0
+2008,Arkansas,Registration Deadline,0.5
+2010,Arkansas,Registration Deadline,0.5
+2012,Arkansas,Registration Deadline,0.5
+2014,Arkansas,Registration Deadline,0.5
+2016,Arkansas,Registration Deadline,0.5
+2018,Arkansas,Registration Deadline,0.5
+2020,Arkansas,Registration Deadline,0.5
+2022,Arkansas,Registration Deadline,0.5
+2008,Arkansas,Early Voting,0.8
+2010,Arkansas,Early Voting,0.8
+2012,Arkansas,Early Voting,0.8
+2014,Arkansas,Early Voting,0.8
+2016,Arkansas,Early Voting,0.8
+2018,Arkansas,Early Voting,0.8
+2020,Arkansas,Early Voting,0.8
+2022,Arkansas,Early Voting,0.8
+2008,Arkansas,Turnout,0.40224658655934037
+2010,Arkansas,Turnout,0.4787119587417692
+2012,Arkansas,Turnout,0.45615499685518446
+2014,Arkansas,Turnout,0.32323469296097757
+2016,Arkansas,Turnout,0.3843797470908612
+2018,Arkansas,Turnout,0.3323130606207996
+2020,Arkansas,Turnout,0.4559914254583418
+2022,Arkansas,Turnout,0.46977884424850347
